@@ -38,5 +38,5 @@ project-05-Intro-to-ML/ ├── megaline-plan-recommendation-model.ipynb └�
 
 - Python  
 - Jupyter Notebooks  
-- pandas, NumPy, Matplotlib, Seaborn  
+- Pandas, NumPy, Matplotlib, Seaborn, Sklearn  
 - Google Drive (for dataset hosting)

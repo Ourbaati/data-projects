@@ -37,5 +37,5 @@ project-02-EDA/ ├── car_ads_price_analysis.ipynb └── datasets-to-upl
 
 - Python  
 - Jupyter Notebooks  
-- pandas, NumPy, Matplotlib, Seaborn  
+- Pandas, NumPy, Matplotlib, Seaborn, Scipy
 - Google Drive (for dataset hosting)

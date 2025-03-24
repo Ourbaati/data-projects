@@ -38,5 +38,5 @@ project-04-SQL/ ├── weather_impact_on_ride_duration.ipynb └── datase
 
 - Python  
 - Jupyter Notebooks  
-- pandas, NumPy, Matplotlib, Seaborn  
+- Pandas, NumPy, Matplotlib, Seaborn, Scipy 
 - Google Drive (for dataset hosting)

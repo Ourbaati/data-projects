@@ -50,5 +50,5 @@ project-07-ML-in-Business/ ├── regional-profit-margin-analysis.ipynb └�
 
 - Python  
 - Jupyter Notebooks  
-- pandas, NumPy, Matplotlib, Seaborn  
+- Pandas, NumPy, Matplotlib, Seaborn, Sklearn  
 - Google Drive (for dataset hosting)

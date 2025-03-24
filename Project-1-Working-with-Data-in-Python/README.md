@@ -37,5 +37,5 @@ project-01-Working-with-Data-in-Python/ ├── Instacart_Customer_Behavior_An
 
 - Python  
 - Jupyter Notebooks  
-- pandas, NumPy, Matplotlib, Seaborn  
+- Pandas, NumPy, Matplotlib, Seaborn  
 - Google Drive (for dataset hosting)

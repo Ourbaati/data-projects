@@ -37,5 +37,5 @@ project-06-Supervised-Learning/ ├── beta_bank_customer_churn_prediction.ip
 
 - Python  
 - Jupyter Notebooks  
-- pandas, NumPy, Matplotlib, Seaborn  
+- Pandas, NumPy, Matplotlib, Seaborn, Sklearn 
 - Google Drive (for dataset hosting)
