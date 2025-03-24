@@ -1,33 +1,42 @@
-Project 01: Instacart Data Analysis
+# Project 05: Megaline Plan Recommendation
 
-Project Overview
+## Project Overview
+ Machine learning model to analyze Megaline subscribers' behavior and recommend the optimal prepaid plan (Smart or Ultra). Includes data exploration, model selection, hyperparameter tuning, and validation to support strategic decision-making and advertising efforts.
 
-Machine learning model to analyze Megaline subscribers' behavior and recommend the optimal prepaid plan (Smart or Ultra). Includes data exploration, model selection, hyperparameter tuning, and validation to support strategic decision-making and advertising efforts.
-Dataset Access
 
-Due to file size limitations, the dataset required for this analysis is hosted externally on Google Drive.
 
-Instructions to Download and Set Up the Dataset:
+---
 
-1. [Click here to download the dataset from Google Drive](https://drive.google.com/drive/folders/1mZ--ezkxjBE-0pGjKT-GLeorUL_QX6MI?usp=sharing)
+## 📦 Dataset Access
 
-2. Once downloaded, follow these simple steps to prepare your local environment:
+Due to file size limitations, the datasets are hosted externally on Google Drive.
 
-Navigate to your local project-01-instacart directory.
+### 🔽 Download Instructions
 
-Create a new folder named exactly datasets within this directory:
+1. [**Click here to download the datasets from Google Drive**](https://drive.google.com/drive/folders/1mZ--ezkxjBE-0pGjKT-GLeorUL_QX6MI?usp=sharing)
 
-project-01-instacart/
-├── notebook.ipynb
-└── datasets/   (create this folder)
+2. Once downloaded, set up your local project structure as follows:
+project-05-Intro-to-ML/ ├── megaline-plan-recommendation-model.ipynb └── datasets-to-upload/ └── users_behavior.csv
 
-Place the downloaded dataset file clearly into this new datasets folder:
+---
 
-project-01-instacart/
-├── notebook.ipynb
-└── datasets/
-    └── instacart_dataset.csv  (place dataset file here)
 
-Running the Notebook
+> ⚠️ **Important:**  
+> If the `datasets-to-upload` folder doesn't exist, create it manually and place the downloaded file inside.
 
-Open the notebook file (notebook.ipynb) in Jupyter Notebook, ensure your dataset is placed correctly as described above, and execute the cells sequentially.
+---
+
+## 🚀 Running the Notebook
+
+1. Open `megaline-plan-recommendation-model.ipynb` using Jupyter Notebook or VS Code with a Jupyter extension.
+2. Ensure the dataset is correctly placed in the `datasets-to-upload/` folder.
+3. Run all cells in order to execute the full analysis.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python  
+- Jupyter Notebooks  
+- pandas, NumPy, Matplotlib, Seaborn  
+- Google Drive (for dataset hosting)

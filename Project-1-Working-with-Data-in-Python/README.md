@@ -15,17 +15,20 @@ Due to file size limitations, the dataset is hosted externally on Google Drive.
 
 2. Once downloaded, set up your project folder structure like this:
 
-project-01-Working-with-Data-in-Python/ ├── Instacart_Customer_Behavior_Analysis.ipynb └── datasets/ ├── aisles.csv ├── departments.csv ├── order_products__prior.csv ├── orders.csv └── products.csv
+project-01-Working-with-Data-in-Python/ ├── Instacart_Customer_Behavior_Analysis.ipynb └── datasets-to-upload/ ├── aisles.csv ├── departments.csv ├── order_products__prior.csv ├── orders.csv └── products.csv
+
+---
+
 
 > ⚠️ **Important:**  
-> If the `datasets` folder doesn't exist, create it manually and place the downloaded file inside.
+> If the `datasets-to-upload` folder doesn't exist, create it manually and place the downloaded file inside.
 
 ---
 
 ## 🚀 Running the Notebook
 
 1. Open `Instacart_Customer_Behavior_Analysis.ipynb` using Jupyter Notebook or VS Code with a Jupyter extension.
-2. Make sure all 5 datasets are in the `datasets/` folder.
+2. Make sure all 5 datasets are in the `datasets-to-upload/` folder.
 3. Run all cells in order to execute the full analysis.
 
 ---

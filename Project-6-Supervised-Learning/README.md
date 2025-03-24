@@ -1,34 +1,41 @@
-Project 01: Instacart Data Analysis
+# Project 06: Beta Bank Churn Prediction
 
-Project Overview
+## Project Overview
+ This project analyzes customer data from **Beta Bank** to predict customer churn. It follows a structured data preprocessing and modeling pipeline to identify behavioral patterns and build a predictive model with an F1 score of at least 0.59. The goal is to support strategic decisions aimed at improving customer retention and optimizing cost-efficiency.
 
-This project analyzes customer data from Beta Bank to predict customer churn. It follows a structured data preprocessing and modeling pipeline to identify behavioral patterns and build a predictive model with an F1 score of at least 0.59. The goal is to support strategic decisions aimed at improving customer retention and optimizing cost-efficiency.
 
-Dataset Access
 
-Due to file size limitations, the dataset required for this analysis is hosted externally on Google Drive.
+---
 
-Instructions to Download and Set Up the Dataset:
+## 📦 Dataset Access
 
-1. [Click here to download the dataset from Google Drive](https://drive.google.com/drive/folders/1mZ--ezkxjBE-0pGjKT-GLeorUL_QX6MI?usp=sharing)
+Due to file size limitations, the datasets are hosted externally on Google Drive.
 
-2. Once downloaded, follow these simple steps to prepare your local environment:
+### 🔽 Download Instructions
 
-Navigate to your local project-01-instacart directory.
+1. [**Click here to download the datasets from Google Drive**](https://drive.google.com/drive/folders/1mZ--ezkxjBE-0pGjKT-GLeorUL_QX6MI?usp=sharing)
 
-Create a new folder named exactly datasets within this directory:
+2. Once downloaded, set up your local project structure as follows:
+project-06-Supervised-Learning/ ├── beta_bank_customer_churn_prediction.ipynb └── datasets-to-upload/ └── Churn.csv
 
-project-01-instacart/
-├── notebook.ipynb
-└── datasets/   (create this folder)
+---
 
-Place the downloaded dataset file clearly into this new datasets folder:
+> ⚠️ **Important:**  
+> If the `datasets-to-upload` folder doesn't exist, create it manually and place the downloaded file inside.
 
-project-01-instacart/
-├── notebook.ipynb
-└── datasets/
-    └── instacart_dataset.csv  (place dataset file here)
+---
 
-Running the Notebook
+## 🚀 Running the Notebook
 
-Open the notebook file (notebook.ipynb) in Jupyter Notebook, ensure your dataset is placed correctly as described above, and execute the cells sequentially.
+1. Open `beta_bank_customer_churn_prediction.ipynb` using Jupyter Notebook or VS Code with a Jupyter extension.
+2. Ensure the dataset is correctly placed in the `datasets-to-upload/` folder.
+3. Run all cells in order to execute the full analysis.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python  
+- Jupyter Notebooks  
+- pandas, NumPy, Matplotlib, Seaborn  
+- Google Drive (for dataset hosting)

@@ -1,33 +1,41 @@
-Project 01: Instacart Data Analysis
+# Project 02: Car Ads Price Insights
 
-Project Overview
+## Project Overview
+ Exploratory data analysis and data cleaning of car advertisement data to understand pricing factors such as mileage and condition. Techniques used: data preprocessing, handling missing values, type correction, outlier removal, deduplication, and data visualization with plots
 
-Exploratory data analysis and data cleaning of car advertisement data to understand pricing factors such as mileage and condition. Techniques used: data preprocessing, handling missing values, type correction, outlier removal, deduplication, and data visualization with plots
-Dataset Access
 
-Due to file size limitations, the dataset required for this analysis is hosted externally on Google Drive.
+---
 
-Instructions to Download and Set Up the Dataset:
+## 📦 Dataset Access
 
-1. [Click here to download the dataset from Google Drive](https://drive.google.com/drive/folders/1mZ--ezkxjBE-0pGjKT-GLeorUL_QX6MI?usp=sharing)
+Due to file size limitations, the datasets are hosted externally on Google Drive.
 
-2. Once downloaded, follow these simple steps to prepare your local environment:
+### 🔽 Download Instructions
 
-Navigate to your local project-01-instacart directory.
+1. [**Click here to download the datasets from Google Drive**](https://drive.google.com/drive/folders/1mZ--ezkxjBE-0pGjKT-GLeorUL_QX6MI?usp=sharing)
 
-Create a new folder named exactly datasets within this directory:
+2. Once downloaded, set up your local project structure as follows:
+project-02-EDA/ ├── car_ads_price_analysis.ipynb └── datasets-to-upload/ ├── vehicles_us.csv └── products.csv
 
-project-01-instacart/
-├── notebook.ipynb
-└── datasets/   (create this folder)
+---
 
-Place the downloaded dataset file clearly into this new datasets folder:
 
-project-01-instacart/
-├── notebook.ipynb
-└── datasets/
-    └── instacart_dataset.csv  (place dataset file here)
+> ⚠️ **Important:**  
+> If the `datasets-to-upload` folder doesn't exist, create it manually and place `.csv` file inside.
 
-Running the Notebook
+---
 
-Open the notebook file (notebook.ipynb) in Jupyter Notebook, ensure your dataset is placed correctly as described above, and execute the cells sequentially.
+## 🚀 Running the Notebook
+
+1. Open `car_ads_price_analysis.ipynb` using Jupyter Notebook or VS Code with a Jupyter extension.
+2. Make sure that the dataset is in the `datasets-to-upload/` folder.
+3. Run the notebook cells sequentially to execute the full analysis.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python  
+- Jupyter Notebooks  
+- pandas, NumPy, Matplotlib, Seaborn  
+- Google Drive (for dataset hosting)
