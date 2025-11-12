@@ -27,6 +27,8 @@ Welcome! This repository contains a collection of my data analysis and machine l
 7. **[Project 7 – Machine Learning in Business](./Project-7-ML-in-Business/)**  
    Apply ML models in a business context to generate insights and optimize performance.
 
+7. **[Project 8 - Time-Series-Forecasting](./Project-8-Time-Series-Forecasting/)**
+
 ---
 
 ## ⚙️ Tools & Technologies
