@@ -1,4 +1,4 @@
-# Project 08: Hourly Taxi Demand Forecasting
+# Project 8: Hourly Taxi Demand Forecasting
 
 ## Project Overview
 
