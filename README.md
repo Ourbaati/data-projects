@@ -27,8 +27,11 @@ Welcome! This repository contains a collection of my data analysis and machine l
 7. **[Project 7 – Machine Learning in Business](./Project-7-ML-in-Business/)**  
    Apply ML models in a business context to generate insights and optimize performance.
 
-8. **[Project 8 - Time-Series-Forecasting](./Project-8-Time-Series-Forecasting/)**
-Forecast hourly taxi demand using historical airport ride data with time series features and regression models optimized by RMSE.
+8. **[Project 8 - Time Series Forecasting](./Project-8-Time-Series-Forecasting/)**
+   Forecast hourly taxi demand using historical airport ride data with time series features and regression models optimized by RMSE.
+
+9. **[Project 9 -  Customer Loss Prediction for Interconnect Telecom](./Project-9-Predicting-Customer-Loss/)**
+   Build a classification model to predict customer churn using telecom usage patterns, contract types, and demographics to support targeted retention efforts.
 
 ---
 
