@@ -1,4 +1,4 @@
-# Project 09: Customer Loss Prediction for Interconnect Telecom
+# Project 09: Customer Behavior Prediction with ML 
 
 ## Project Overview
 
